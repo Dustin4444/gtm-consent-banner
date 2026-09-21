@@ -118,7 +118,7 @@ Each consent action logs:
 
 ### Appearance
 
-- **Primary Button Color**: Color for "Accept All" button
+- **Primary Button Color**: Color for "Accept All"/"Reject All" buttons
 - **Primary Button Text Color**: Text color for primary buttons
 - **Secondary Button Color**: Color for the "Details" button
 - **Secondary Button Text Color**: Text color for secondary button
